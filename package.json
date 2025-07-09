@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "private": true,
+  "homepage": "https://fairyy7.github.io/ReactJS-Movie/",  
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build", 
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
